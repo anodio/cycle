@@ -1,0 +1,13 @@
+{
+  "name": "anodio/cycle",
+    "description": "Cycle ORM",
+  "require": {
+    "cycle/orm": "^2.9",
+    "cycle/annotated": "^4.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "Anodio\\Cycle\\": "src/"
+    }
+  }
+}
